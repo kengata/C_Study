@@ -8,10 +8,10 @@
  ============================================================================
  */
 
-#include <stdio.h>
+#include <stdio.h>˜
 #include <stdlib.h>
 
 int main(void) {
-	puts("横道世之介"); /* prints !!!Hello World!!! */
+	puts("理想の睡眠時間は７時間"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
