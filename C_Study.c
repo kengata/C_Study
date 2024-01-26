@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("理想の睡眠時間は７時間"); /* prints !!!Hello World!!! */
+	puts("理想の睡眠時間は8時間"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
