@@ -11,5 +11,6 @@ int main(void){
     } else {
         printf("それは10より大きい。入力値：%d\n",suuti);
     }
+    printf("--------<Program END>-------\n");
     return 0;
 }
